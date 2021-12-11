@@ -15,3 +15,15 @@
 </p>
 
 The official repo of the AAAI 2022 paper, Self-Supervised Pretraining for RGB-D Salient Object Detection.
+## Saliency map
+[Google Drive](https://drive.google.com/file/d/1i5OElgml76p76N2l9eYlFc4Bm8jOlxUk/view?usp=sharing) / [BaiduYunPan(d63j)](https://pan.baidu.com/s/1qifMM7wgR5gPhb6ZlRU9Zw)  
+
+## BibTex
+```
+@inproceedings{SSLSOD,
+  title={Self-Supervised Pretraining for RGB-D Salient Object Detection},
+  author={Zhao, Xiaoqi and Pang, Youwei and Zhang, Lihe and  and Lu, Huchuan and Ruan, Xiang},
+  booktitle={AAAI},
+  year={2022}
+}
+```
