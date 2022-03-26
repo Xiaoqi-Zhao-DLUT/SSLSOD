@@ -43,9 +43,9 @@ img_transform = transforms.Compose([
 ])
 target_transform = transforms.ToTensor()
 ##########################################################################
-image_root = '/home/asus/Datasets/binary_segmentation/RGBD_SOD_Datasets/NJUD_NLPR_dutrgbd_depth_scale/RGB/'
-depth_root = '/home/asus/Datasets/binary_segmentation/RGBD_SOD_Datasets/NJUD_NLPR_dutrgbd_depth_scale/resize_depth/'
-gt_root = '/home/asus/Datasets/binary_segmentation/RGBD_SOD_Datasets/NJUD_NLPR_dutrgbd_depth_scale/GT/'
+image_root = ''
+depth_root = ''
+gt_root = ''
 
 train_set = ImageFolder(image_root, gt_root,depth_root, joint_transform, img_transform, target_transform)
 train_loader = DataLoader(train_set, batch_size=args['train_batch_size'], num_workers=0, shuffle=True)
