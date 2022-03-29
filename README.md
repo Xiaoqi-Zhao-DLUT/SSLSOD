@@ -18,7 +18,7 @@ The official repo of the AAAI 2022 paper, Self-Supervised Pretraining for RGB-D 
 ## Saliency map
 [Google Drive](https://drive.google.com/file/d/1i5OElgml76p76N2l9eYlFc4Bm8jOlxUk/view?usp=sharing) / [BaiduYunPan(d63j)](https://pan.baidu.com/s/1qifMM7wgR5gPhb6ZlRU9Zw) 
 ## Trained Model
-You can download all trained models at [Google Drive](https://drive.google.com/file/d/1mxX4yk6yOCTapJ_dn_5nZhnb8IpvzEt0/view?usp=sharing) / [BaiduYunPan(0401)](链接: https://pan.baidu.com/s/1zruPGxeR-7j4bfNSrzU5Lg).  
+You can download all trained models at [Google Drive](https://drive.google.com/file/d/1mxX4yk6yOCTapJ_dn_5nZhnb8IpvzEt0/view?usp=sharing) / [BaiduYunPan(0401)](https://pan.baidu.com/s/1zruPGxeR-7j4bfNSrzU5Lg).  
 ## Datasets
 * [Google Drive](https://drive.google.com/file/d/1khN0hTjQ57d5zSFpxADawmeKJ_iQHptu/view?usp=sharing) / [BaiduYunPan(83mj)](https://pan.baidu.com/s/1SfstQCHv0gPV-P3jf4ovjg)  
 *  We believe that using a large amount of RGB-D data for pre-training, we will get a super-strong SSL-based model even surpassing the ImageNet-based model. This [survey](https://arxiv.org/pdf/2201.05761.pdf) of the RGB-D dataset may be helpful to you.
